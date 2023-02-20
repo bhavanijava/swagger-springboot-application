@@ -1,7 +1,7 @@
 # swagger-springboot-application
 
    
-###Swagger tool will open on browser link
+###Swagger tool will open on browser link after application
 http://localhost:8787/swagger-ui.html
 
 #downloading documentation format
