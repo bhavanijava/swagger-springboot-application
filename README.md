@@ -7,9 +7,9 @@
 #Reference website -------->https://www.baeldung.com/spring-rest-openapi-documentation
 
 
-#dependency
-<dependency>
-    <groupId>org.springdoc</groupId>
-    <artifactId>springdoc-openapi-ui</artifactId>
-    <version>1.6.4</version>
-</dependency>
+#dependency-------->   <dependency>
+#                             <groupId>org.springdoc</groupId>
+#                             <artifactId>springdoc-openapi-ui</artifactId>
+#                             <version>1.6.4</version>
+#                      </dependency>
+
