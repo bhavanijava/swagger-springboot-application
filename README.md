@@ -17,7 +17,8 @@ Reference website
 https://www.baeldung.com/spring-rest-openapi-documentation
 ```
 
-####if you want use swagger tool add this dependency in pom.xml file
+if you want use swagger tool add this dependency in pom.xml file
+-----------------------------------------------------------------
 ```bash
 <dependency>
     <groupId>org.springdoc</groupId>
@@ -25,4 +26,3 @@ https://www.baeldung.com/spring-rest-openapi-documentation
     <version>1.6.4</version>
 </dependency>
 ```
-
