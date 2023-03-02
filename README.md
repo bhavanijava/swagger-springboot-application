@@ -6,3 +6,9 @@ Swagger tool will open on browser link
 http://localhost:8787/swagger-ui.html
 ```
 
+downloading documentation format
+---------------------------------
+```bash
+http://localhost:8787/v3/api-docs.yaml
+```
+
