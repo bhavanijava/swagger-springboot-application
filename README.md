@@ -1,10 +1,24 @@
 # swaggertool-springboot-application
 
+
+if you want use swagger tool add this dependency in pom.xml file
+-----------------------------------------------------------------
+```bash
+<dependency>
+    <groupId>org.springdoc</groupId>
+    <artifactId>springdoc-openapi-ui</artifactId>
+    <version>1.6.4</version>
+</dependency>
+```
+
+
 Swagger tool will open on browser link
 --------------------------------------
 ```bash
 http://localhost:8787/swagger-ui.html
 ```
+
+
 downloading documentation format our total application details in one file
 -------------------------------------------------------------------------
 ```bash
@@ -17,12 +31,3 @@ Reference website
 https://www.baeldung.com/spring-rest-openapi-documentation
 ```
 
-if you want use swagger tool add this dependency in pom.xml file
------------------------------------------------------------------
-```bash
-<dependency>
-    <groupId>org.springdoc</groupId>
-    <artifactId>springdoc-openapi-ui</artifactId>
-    <version>1.6.4</version>
-</dependency>
-```
